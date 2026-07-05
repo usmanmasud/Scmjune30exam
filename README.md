@@ -1,4 +1,4 @@
-# Git & GitHub — SWE4201 Assignment
+# Git & GitHub — SWE4201 Assignment for branching and merging
 
 **Course:** SWE4201 — Software Configuration Management & Maintenance  
 **Institution:** Bayero University Kano  
